@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+h1{
+    color:coral;
+}
+.myFont{
+    font-size: 20px;
+    font-family: Monaco;
+}
+
+.myButton:hover{
+    background-color: yellow;
+    color: black;
+}

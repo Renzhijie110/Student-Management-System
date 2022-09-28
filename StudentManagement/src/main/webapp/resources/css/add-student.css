@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html,body{
+    margin: 0;
+    font-family: sans-serif;
+    background-image: url("/StudentManagement_war/URLToReachImagesFolder/background.jpg/");
+    background-size: cover;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div form label{
+    font-family: sans-serif;
+    color: burlywood;
+}
+
+
+
